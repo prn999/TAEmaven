@@ -1,5 +1,7 @@
 package com.TAE.pages;
 
-public class CartPage {
+import com.TAE.base.TestBase;
+
+public class CartPage extends TestBase{
 
 }

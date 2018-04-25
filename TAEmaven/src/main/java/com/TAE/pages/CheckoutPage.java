@@ -1,5 +1,7 @@
 package com.TAE.pages;
 
-public class CheckoutPage {
+import com.TAE.base.TestBase;
+
+public class CheckoutPage extends TestBase{
 
 }

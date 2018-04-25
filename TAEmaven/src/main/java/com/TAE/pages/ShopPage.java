@@ -1,5 +1,7 @@
 package com.TAE.pages;
 
-public class ShopPage {
+import com.TAE.base.TestBase;
+
+public class ShopPage extends TestBase{
 
 }

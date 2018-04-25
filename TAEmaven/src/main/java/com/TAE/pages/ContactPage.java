@@ -1,5 +1,7 @@
 package com.TAE.pages;
 
-public class ContactPage {
+import com.TAE.base.TestBase;
+
+public class ContactPage extends TestBase{
 
 }
